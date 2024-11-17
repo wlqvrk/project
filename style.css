@@ -1,0 +1,13 @@
+body {
+  background-color: #013220;
+  color: white;
+  text-align: center;
+}
+.img1 {
+  background-color: black;
+  width: 150px;
+}
+img {
+  width: 350px;
+  height: 350px;
+}
